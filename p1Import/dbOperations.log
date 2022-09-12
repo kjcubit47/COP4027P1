@@ -1,0 +1,11 @@
+Database Log
+#############
+Dropping table Vehicle.
+Table was not dropped.
+Creating database.
+Table Created.
+Issuing query: SELECT * FROM Vehicle.
+Issuing query: SELECT * FROM Vehicle WHERE make = Toyota OR make = Chevy
+Issuing query: SELECT * FROM Vehicle WHERE weight > 2500
+Dropping table Vehicle.
+Table dropped.

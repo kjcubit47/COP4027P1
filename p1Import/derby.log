@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 12 11:18:39 CDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0183-327e-e19d-00000f800000 
+on database directory /Users/kylemacbook/Library/CloudStorage/OneDrive-Personal/Fall 2022/COP 4027 Advanced Programming/Projects/Project1/p1Import/p1Import/myDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+Loaded from file:/Users/kylemacbook/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.3+7
+user.dir=/Users/kylemacbook/Library/CloudStorage/OneDrive-Personal/Fall 2022/COP 4027 Advanced Programming/Projects/Project1/p1Import/p1Import
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

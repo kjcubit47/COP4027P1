@@ -1,0 +1,20 @@
+Database Log
+#############
+Issuing command: DROP TABLE Vehicle
+Command: DROP TABLE Vehicle failed.
+Creating database.
+Table Created.
+Issuing command: INSERT INTO Vehicle Values(Nissan,fullSized,3746.89,6.00,true,)
+Issuing command: INSERT INTO Vehicle Values(Nissan,fullSized,2821.16,5.57,true,)
+Issuing command: INSERT INTO Vehicle Values(Ford,intermediate,2045.17,4.45,true,)
+Issuing command: INSERT INTO Vehicle Values(Hyundai,fullSized,2679.69,2.56,true,)
+Issuing command: INSERT INTO Vehicle Values(Ford,fullSized,2952.94,4.71,false,)
+Issuing command: INSERT INTO Vehicle Values(Toyota,fullSized,3276.05,2.42,true,)
+Issuing command: INSERT INTO Vehicle Values(Hyundai,intermediate,2065.81,2.40,true,)
+Issuing command: INSERT INTO Vehicle Values(Hyundai,compact,1802.59,3.80,false,)
+Issuing command: INSERT INTO Vehicle Values(Chevy,compact,1846.50,3.93,true,)
+Issuing command: INSERT INTO Vehicle Values(Nissan,fullSized,3201.08,1.80,false,)
+Issuing query: SELECT * FROM Vehicle.
+Issuing query: SELECT * FROM Vehicle WHERE make = Toyota OR make = Chevy
+Issuing query: SELECT * FROM Vehicle WHERE weight > 2500
+Issuing command: DROP TABLE Vehicle
